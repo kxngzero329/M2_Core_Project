@@ -1,6 +1,7 @@
 # M2_Core_Project
 
 ## How to run
+### Extract the folder
 1. The php.ini file you see in this repo , replace it with your php.ini located in the folder : xampp/php - there you'll see the php.ini file that needs to be replaced because of the pdf generation extension
 2. Then open the moderntech_hr.sql file in workbench, run the whole file using ctrl + shift + enter. Make sure to change my password to your own in db.php.
 3. Open xampp application and start the apache, then go to the root of where the project is located (Must be in ht docs within your xampp folder), so it'll look like this:
